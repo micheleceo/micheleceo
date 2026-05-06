@@ -5,7 +5,7 @@ I've been developing e currently managing software project in railway diagnostic
 
 * 🌍  I'm based in Bari
 * 🚀  I'm currently working on [Railway data platform for predictive maintenance](http://https://www.tesmec.com/it/railway/prodotti/soluzioni-per-la-diagnostica)
-* 🧠  I'm learning Project management, web and blockchain technologies
+* 🧠  I'm learning Project management, Agentic AI, blockchain technologies
 * ⚡  I have two qualities: one is memory, the other one... I don't remember
 
 ### Skills
